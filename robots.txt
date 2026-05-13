@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waml.github.io/archive-gdbi68/sitemap.xml
